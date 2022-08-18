@@ -28,4 +28,6 @@ python stt.py
 ```
 
 **Step 5:** Enjoy :)
+## output
 
+  ![alt text](image/sttexample.gif)
